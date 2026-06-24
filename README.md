@@ -19,13 +19,16 @@ A estrutura planejada (pode evoluir com o tempo):
   A ideia principal é que gamificar não significa apenas usar jogos, mas sim criar uma experiência de aprendizagem mais engajadora, com propósito, progresso visível, feedback constante e desafios significativos.
 
 - `fontes.md`  
-  [eBOOK-Gamificacao.pdf](https://github.com/user-attachments/files/29298350/eBOOK-Gamificacao.pdf)
+[eBOOK-Gamificacao.pdf](https://github.com/user-attachments/files/29298350/eBOOK-Gamificacao.pdf)
+
 [Apostila - Gamificação.pdf](https://github.com/user-attachments/files/29298349/Apostila.-.Gamificacao.pdf)
+
 [001108936.pdf](https://github.com/user-attachments/files/29298348/001108936.pdf)
+
 [23717-1514-19236-1-10-20230227.pdf](https://github.com/user-attachments/files/29298346/23717-1514-19236-1-10-20230227.pdf)
 
 - `mini-guia.md`  
-    [Mini guia de estudo gamificado.docx](https://github.com/user-attachments/files/29298352/Mini.guia.de.estudo.gamificado.docx)
+[Mini guia de estudo gamificado.docx](https://github.com/user-attachments/files/29298352/Mini.guia.de.estudo.gamificado.docx)
 
 - `prompts/`  
   - `prompt-base.md` – Você é um especialista em gamificação e quer utilizar seus conhecimento e desenvolver um projeto de estudo em algum temas básico de nível fundamento de um escola de ensino, por onde você irá começar?
